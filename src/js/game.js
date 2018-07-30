@@ -1,6 +1,6 @@
 class Game {
 
-    constructor(ships) {
+    constructor() {
        this.ship = new Ship();
        this.asteroids = [];
     }
